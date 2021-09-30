@@ -4,7 +4,7 @@ Hierarchical clustering of countries according to their Eurovision voting.
 
 Dendrogram:
 
-
+```
                 ---- Austria
             ----|
                     ---- Switzerland
@@ -110,3 +110,5 @@ Dendrogram:
                                             ---- France
                                         ----|
                                             ---- The Netherlands
+                                            
+  ```
