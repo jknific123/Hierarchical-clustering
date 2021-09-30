@@ -1,2 +1,112 @@
 # Hierarchical clustering
 Hierarchical clustering of countries according to their Eurovision voting.
+
+
+Dendrogram:
+
+
+                ---- Austria
+            ----|
+                    ---- Switzerland
+                ----|
+                    ---- Yugoslavia
+        ----|
+                ---- Bosnia & Herzegovina
+            ----|
+                    ---- Croatia
+                ----|
+                    ---- Slovenia
+    ----|
+            ---- Albania
+        ----|
+                ---- Serbia
+            ----|
+                    ---- Serbia & Montenegro
+                ----|
+                        ---- F.Y.R. Macedonia
+                    ----|
+                        ---- Montenegro
+----|
+            ---- Armenia
+        ----|
+                    ---- Moldova
+                ----|
+                        ---- Georgia
+                    ----|
+                            ---- Russia
+                        ----|
+                                ---- Ukraine
+                            ----|
+                                ---- Belarus
+            ----|
+                    ---- Azerbaijan
+                ----|
+                        ---- Turkey
+                    ----|
+                        ---- Morocco
+    ----|
+                    ---- Greece
+                ----|
+                    ---- Cyprus
+            ----|
+                        ---- Romania
+                    ----|
+                        ---- Bulgaria
+                ----|
+                            ---- Italy
+                        ----|
+                            ---- North Macedonia
+                    ----|
+                            ---- Czech Republic
+                        ----|
+                                ---- Malta
+                            ----|
+                                ---- San Marino
+        ----|
+                ---- Andorra
+            ----|
+                        ---- Lithuania
+                    ----|
+                            ---- Estonia
+                        ----|
+                            ---- Latvia
+                ----|
+                            ---- Australia
+                        ----|
+                                ---- Finland
+                            ----|
+                                        ---- Sweden
+                                    ----|
+                                        ---- Denmark
+                                ----|
+                                        ---- Norway
+                                    ----|
+                                        ---- Iceland
+                    ----|
+                                ---- Monaco
+                            ----|
+                                    ---- United Kingdom
+                                ----|
+                                        ---- Ireland
+                                    ----|
+                                        ---- Luxembourg
+                        ----|
+                                        ---- Portugal
+                                    ----|
+                                        ---- Spain
+                                ----|
+                                            ---- Belgium
+                                        ----|
+                                            ---- Israel
+                                    ----|
+                                            ---- Hungary
+                                        ----|
+                                            ---- Poland
+                            ----|
+                                    ---- Slovakia
+                                ----|
+                                        ---- Germany
+                                    ----|
+                                            ---- France
+                                        ----|
+                                            ---- The Netherlands
